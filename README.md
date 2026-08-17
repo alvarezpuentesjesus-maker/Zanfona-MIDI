@@ -1,5 +1,7 @@
 # Zanfona-MIDI
 
+[🔍 Ver modelo 3D interactivo del ensamblaje](Cuerpo_Todo.3mf)
+
 En este repositorio se recogen tanto los archivos de fabricación mecánica como el software y los esquemas electrónicos para la fabricación de un prototipo funcional de una zanfona MIDI. Este proyecto ha sido desarrollado como TFG para el grado en Robótica en la Universidad de Santiago de Compostela.
 
 ## [Electrónica](Electrónica) 
