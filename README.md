@@ -77,7 +77,7 @@ En la siguiente tabla se puede ver el BOM tanto de elementos de hardware como el
 
 | Categoría | Referencia | Descripción | Cantidad | Precio ud | Precio Total | Proveedor |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
-| Electrónica | SC0915 | Microcontrolador Raspberry Pi Pico | 1 | 3,51 € | 3,51 € | [TME]([URL](https://www.tme.eu/es/details/sc0915/raspberry-pi-sistemas-embebidos/raspberry-pi/raspberry-pi-pico/)) |
+| Electrónica | SC0915 | Microcontrolador Raspberry Pi Pico | 1 | 3,51 € | 3,51 € | [TME]([URL](https://www.tme.eu/es/details/sc0915/raspberry-pi-sistemas-embebidos/raspberry-pi/raspberry-pi-pico/) |
 | Electrónica | CF1/4W-10K | Resistencia 10K 100ud | 1 | 0,87 € | 0,87 € | [TME](URL) |
 | Electrónica | CF1/4W-150R | Resistencias 150Ω 100ud | 1 | 0,90 € | 0,90 € | [TME](URL) |
 | Electrónica | CF1/4W-2K | Resistencias teclado 2K 100ud | 1 | 0,74 € | 0,74 € | [TME](URL) |
