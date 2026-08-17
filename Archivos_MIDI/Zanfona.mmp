@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project version="1.0" creatorversion="1.2.2" type="song" creator="LMMS">
+  <head timesig_denominator="4" mastervol="100" bpm="140" masterpitch="0" timesig_numerator="4"/>
+  <song>
+    <trackcontainer x="917" visible="1" y="54" minimized="0" width="600" maximized="0" height="494" type="song">
+      <track name="Cantora1" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0.00610352" pitchrange="1" fxch="1" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.24" gain="1.96" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="1" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="1" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Cantora2" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0.00610352" pitchrange="1" fxch="2" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="2" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Cantora3" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0.00610352" pitchrange="1" fxch="3" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="3" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Bordón1" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0" pitchrange="1" fxch="4" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="4" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Bordón2" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0" pitchrange="1" fxch="5" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="5" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Bordón3" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0" pitchrange="1" fxch="6" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="6" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Trompeta1" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0" pitchrange="1" fxch="7" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="7" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Trompeta2" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0" pitchrange="1" fxch="8" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="8" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Trompeta3" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0" pitchrange="1" fxch="9" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Hurdy_Gurdy.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="9" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+      <track name="Perro" solo="0" muted="0" type="0">
+        <instrumenttrack pan="0" basenote="57" vol="100" pitch="0" pitchrange="1" fxch="10" usemasterpitch="1">
+          <instrument name="sf2player">
+            <sf2player reverbOn="0" chorusOn="0" reverbLevel="0.9" chorusLevel="2" reverbRoomSize="0.2" gain="1" chorusDepth="8" src="./Samples/Perro.sf2" bank="0" reverbDamping="0" chorusNum="3" patch="0" chorusSpeed="0.3" reverbWidth="0.5"/>
+          </instrument>
+          <eldata fcut="14000" fwet="0" ftype="0" fres="0.5">
+            <elvol amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elcut amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+            <elres amt="0" x100="0" userwavefile="" latt="0" ctlenvamt="0" hold="0.5" lamt="0" dec="0.5" rel="0.1" lpdel="0" att="0" lspd="0.1" pdel="0" sustain="0.5" lshp="0" lspd_numerator="4" lspd_denominator="4" lspd_syncmode="0"/>
+          </eldata>
+          <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+          <arpeggiator arp="0" arprange="1" arptime_numerator="4" arptime_syncmode="0" arpmiss="0" arpdir="0" arpcycle="0" arpskip="0" arptime_denominator="4" arptime="200" arpgate="100" arp-enabled="0" arpmode="0"/>
+          <midiport inputcontroller="0" writable="0" inports="CircuitPython Audio" inputchannel="11" basevelocity="63" outputcontroller="0" fixedoutputvelocity="-1" fixedoutputnote="-1" outputprogram="1" outputchannel="1" fixedinputvelocity="-1" readable="1"/>
+          <fxchain enabled="0" numofeffects="0"/>
+        </instrumenttrack>
+      </track>
+    </trackcontainer>
+    <track name="Automation track" solo="0" muted="0" type="6">
+      <automationtrack/>
+      <automationpattern len="192" name="Numerator" pos="0" prog="0" mute="0" tens="1"/>
+      <automationpattern len="192" name="Denominator" pos="0" prog="0" mute="0" tens="1"/>
+      <automationpattern len="192" name="Tempo" pos="0" prog="0" mute="0" tens="1"/>
+      <automationpattern len="192" name="Master volume" pos="0" prog="0" mute="0" tens="1"/>
+      <automationpattern len="192" name="Master pitch" pos="0" prog="0" mute="0" tens="1"/>
+    </track>
+    <fxmixer x="196" visible="1" y="156" minimized="0" width="672" maximized="0" height="333">
+      <fxchannel name="Master" soloed="0" muted="0" num="0" volume="0.93">
+        <fxchain enabled="0" numofeffects="0"/>
+      </fxchannel>
+      <fxchannel name="Cantora1" soloed="0" muted="0" num="1" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Cantora2" soloed="0" muted="0" num="2" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Cantora3" soloed="0" muted="0" num="3" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Bordón1" soloed="0" muted="0" num="4" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Bordón2" soloed="0" muted="0" num="5" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Bordón3" soloed="0" muted="0" num="6" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Trompeta1" soloed="0" muted="0" num="7" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Trompeta2" soloed="0" muted="0" num="8" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Trompeta3" soloed="0" muted="0" num="9" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+      <fxchannel name="Perro.sf2" soloed="0" muted="0" num="10" volume="1">
+        <fxchain enabled="0" numofeffects="0"/>
+        <send channel="0" amount="1"/>
+      </fxchannel>
+    </fxmixer>
+    <ControllerRackView x="680" visible="0" y="310" minimized="0" width="350" maximized="0" height="200"/>
+    <pianoroll x="5" visible="0" y="5" minimized="0" width="860" maximized="0" height="480"/>
+    <automationeditor x="1" visible="0" y="1" minimized="0" width="860" maximized="0" height="400"/>
+    <projectnotes x="700" visible="0" y="10" minimized="0" width="687" maximized="0" height="400"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></projectnotes>
+    <timeline lp1pos="192" lp0pos="0" lpstate="0"/>
+    <controllers/>
+  </song>
+</lmms-project>
