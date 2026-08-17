@@ -110,3 +110,7 @@ En la siguiente tabla se puede ver el BOM tanto de elementos de hardware como el
 | **Coste Total de fabricación** | | | | | **89,54 €** | |
 
 </div>
+
+Los precios pueden variar con el tiempo o incluso no tener existencias, se recomienda utilizar la referencia y buscar enlaces de compra adaptados a la disponibilidad del momento.
+
+
