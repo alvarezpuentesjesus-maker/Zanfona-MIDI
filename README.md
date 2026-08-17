@@ -67,3 +67,46 @@ Este proyecto se ha desarrollado utilizando una Raspberry Pi Pico como microcont
 Una vez configurada la Raspberry, es necesario copiar en el interior de su carpeta el archivo [code.py](Software/code.py) y la carpeta [dependencias](Software/dependencias), para el correcto funcionamiento de la zanfona.
 
 Por otra parte, se facilita un archivo llamado [MEDIAS.py](Software/MEDIAS.py), que se utiliza para medir el rango de tensión de cada tecla pulsada y completar la tabla contenida en el archivo [variables.py](Software/dependencias/variables.py).
+
+
+## BOM
+
+En la siguiente tabla se puede ver el BOM tanto de elementos de hardware como electrónica para todo lo necesario en este proyecto:
+
+<div align="center">
+
+| Categoría | Referencia | Descripción | Cantidad | Precio ud | Precio Total | Proveedor |
+| :---: | :---: | :--- | :---: | :---: | :---: | :---: |
+| Electrónica | SC0915 | Microcontrolador Raspberry Pi Pico | 1 | 3,51 € | 3,51 € | [TME]([URL](https://www.tme.eu/es/details/sc0915/raspberry-pi-sistemas-embebidos/raspberry-pi/raspberry-pi-pico/)) |
+| Electrónica | CF1/4W-10K | Resistencia 10K 100ud | 1 | 0,87 € | 0,87 € | [TME](URL) |
+| Electrónica | CF1/4W-150R | Resistencias 150Ω 100ud | 1 | 0,90 € | 0,90 € | [TME](URL) |
+| Electrónica | CF1/4W-2K | Resistencias teclado 2K 100ud | 1 | 0,74 € | 0,74 € | [TME](URL) |
+| Electrónica | TAL220B | Galga extensiométrica 5Kg | 1 | 9,49 € | 9,49 € | [Amazon](URL) |
+| Electrónica | AD620 | Amplificador Galga | 1 | 5,79 € | 5,79 € | [Funduino](URL) |
+| Electrónica | OSX10201-R | Barra Led 10 segmentos Roja | 1 | 0,82 € | 0,82 € | [TME](URL) |
+| Electrónica | EC11E12-15P30C-SW | Encóders | 3 | 1,42 € | 4,26 € | [TME](URL) |
+| Electrónica | AS5600 | Sensor Magneto resistivo | 1 | 0,99 € | 0,99 € | [Aliexpress](URL) |
+| Electrónica | XY308-2P 2.54MM GREEN | Conector Bloque Terminal 10ud | 1 | 2,29 € | 2,29 € | [TME](URL) |
+| Electrónica | XHP-3 | Conector JST 3 pines 2.5mm Hembra | 4 | 0,06 € | 0,24 € | [TME](URL) |
+| Electrónica | B3B-XH-A (LF)(SN) | Conector JST 3 pines 2.5mm Macho | 4 | 0,09 € | 0,36 € | [TME](URL) |
+| Electrónica | XHP-4 | Conector JST 4 pines 2.5mm Hembra | 2 | 0,07 € | 0,14 € | [TME](URL) |
+| Electrónica | B4B-XH-A (LF)(SN) | Conector JST 4 pines 2.5mm Macho | 2 | 0,11 € | 0,22 € | [TME](URL) |
+| Electrónica | XHP-5 | Conector JST 5 pines 2.5mm Hembra | 6 | 0,06 € | 0,36 € | [TME](URL) |
+| Electrónica | B5B-XH-A (LF)(SN) | Conector JST 5 pines 2.5mm Macho | 6 | 0,16 € | 0,96 € | [TME](URL) |
+| Electrónica | Cable AWG 26 | Bobina de cable para usos varios | 1 | 8,99 € | 8,99 € | [Amazon](URL) |
+| Electrónica | PCBs | Coste producción PCBs | 3 | 5,00 € | 15,00 € | [PCBWay](URL) |
+| **Subtotal Electrónica** | | | | | **55,93 €** | |
+| Hardware | B5X10/BN3 | Tornillos M5 10mm 100ud | 1 | 3,18 € | 3,18 € | [TME](URL) |
+| Hardware | M3X20/D912-A2 | Tornillos M3 20mm 100ud | 1 | 2,63 € | 2,63 € | [TME](URL) |
+| Hardware | M3X30/D912-A2 | Tornillos M3 30mm 100ud | 1 | 3,10 € | 3,10 € | [TME](URL) |
+| Hardware | B3/BN124 | Tuercas M3 5,5mm 100ud | 1 | 0,63 € | 0,63 € | [TME](URL) |
+| Hardware | ST-093/1 | Punteras conexiones teclas M3 20ud | 2 | 1,09 € | 2,18 € | [TME](URL) |
+| Hardware | Eje de acero 8mm x 200mm | Eje de acero 8mm x 200mm | 1 | 3,71 € | 3,71 € | [Amazon](URL) |
+| Hardware | Cable de acero 1mm | Cable de acero 1mm | 1 | 2,49 € | 2,49 € | [Leroy Merlin](URL) |
+| Hardware | Clavijas 3L3R | Clavijas Guitarra | 1 | 8,45 € | 8,45 € | [Amazon](URL) |
+| Hardware | TABLERO MDF 120X60X0,3CM | Madera en plancha 120x60x0,3cm | 1 | 6,30 € | 6,30 € | [Obramat](URL) |
+| Hardware | Hilo elástico 0,5mm | Hilo elástico 0,5mm | 1 | 0,94 € | 0,94 € | [Amazon](URL) |
+| **Subtotal Hardware** | | | | | **33,61 €** | |
+| **Coste Total de fabricación** | | | | | **89,54 €** | |
+
+</div>
