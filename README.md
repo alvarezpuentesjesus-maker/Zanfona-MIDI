@@ -2,6 +2,12 @@
 
 En este repositorio se recogen tanto los archivos de fabricación mecánica como el software y los esquemas electrónicos para la fabricación de un prototipo funcional de una zanfona MIDI. Este proyecto ha sido desarrollado como TFG para el grado en Robótica en la Universidad de Santiago de Compostela.
 
+## [Archivos_MIDI](Archivos MIDI)
+
+Para que el instrumento produzca sonido, es necesario conectarlo a un software de producción musical. En este caso se ha escogido [LMMS Studio](https://lmms.io/). 
+
+Se han preparado archivos diferentes en esta carpeta, para interpretar varios instrumentos.
+
 ## [Electrónica](Electrónica) 
 
 En esta carpeta están contenidos los diferentes esquemáticos utilizados en este proyecto. Además, se ha añadido el archivo de simulación empleado para la placa Resitor_Ladder, llamdo Simulación_Resistor_Ladder.txt.
