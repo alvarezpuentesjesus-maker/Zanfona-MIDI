@@ -6,7 +6,7 @@ En este repositorio se recogen tanto los archivos de fabricación mecánica como
 
 Para que el instrumento produzca sonido, es necesario conectarlo a un software de producción musical. En este caso se ha escogido [LMMS Studio](https://lmms.io/). 
 
-Se han preparado archivos diferentes en esta carpeta, para interpretar varios instrumentos.
+Se han preparado archivos diferentes en esta carpeta, para interpretar varios instrumentos, gracias a la web de [Musical Artifacts](https://musical-artifacts.com/), que proporciona samples gratuitos.
 
 ## [Electrónica](Electrónica) 
 
