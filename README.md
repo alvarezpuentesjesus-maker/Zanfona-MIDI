@@ -2,7 +2,7 @@
 
 En este repositorio se recogen tanto los archivos de fabricación mecánica como el software y los esquemas electrónicos para la fabricación de un prototipo funcional de una zanfona MIDI. Este proyecto ha sido desarrollado como TFG para el grado en Robótica en la Universidad de Santiago de Compostela.
 
-## [Archivos_MIDI]("Archivos MIDI")
+## [Archivos_MIDI](Archivos%20MIDI)
 
 Para que el instrumento produzca sonido, es necesario conectarlo a un software de producción musical. En este caso se ha escogido [LMMS Studio](https://lmms.io/). 
 
