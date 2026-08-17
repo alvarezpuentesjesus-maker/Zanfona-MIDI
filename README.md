@@ -62,7 +62,7 @@ Aquí se ven contenidos los archivos de fabricación mecánica. Como archivo pri
 
 ## [Software](Software)
 
-Este proyecto se ha desarrollado utilizando una Raspberry Pi Pico como microcontrolador principal. A su vez, se ha necesitado el firmware de [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/) para poder utilizarla como USB nativo, además de poder cargarle las librerías necesarias de [Adafruit_MIDI](https://github.com/adafruit/Adafruit_CircuitPython_MIDI).
+Este proyecto se ha desarrollado utilizando una Raspberry Pi Pico como microcontrolador principal. A su vez, se ha necesitado el firmware de [CircuitPython](https://circuitpython.org/board/raspberry_pi_pico/) para poder utilizarla como USB nativo, además de poder cargarle las librerías necesarias de [Adafruit_MIDI](https://github.com/adafruit/Adafruit_CircuitPython_MIDI). En este caso se deben tener incluidas las librerías: adafruit_bus_device, adafruit_midi y adafruit_register.
 
 Una vez configurada la Raspberry, es necesario copiar en el interior de su carpeta el archivo [code.py](Software/code.py) y la carpeta [dependencias](Software/dependencias), para el correcto funcionamiento de la zanfona.
 
