@@ -1,3 +1,22 @@
+"""
+Script de Calibración: Medida de Tensión y Desviación Estándar
+==============================================================
+
+Realiza el muestreo masivo de la entrada analógica A0 para calcular
+el valor medio de tensión y su desviación estándar. Utilizado para la
+calibración y caracterización estadística de los rangos de las teclas.
+
+Información del archivo:
+- Archivo: MEDIAS.py
+- Autor: Jesús Álvarez Puentes
+- Fecha: 2026-07-28
+- Versión: 0.1
+- Licencia: MIT
+- Dependencias:
+    * CircuitPython (board, analogio, time)
+    * math (Librería estándar)
+"""
+
 import analogio
 import board
 import time

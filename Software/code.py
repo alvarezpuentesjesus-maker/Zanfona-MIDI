@@ -1,5 +1,24 @@
-from dependencias.zanfona import *
+"""
+Módulo Principal: Zanfona MIDI
+==============================
 
+Bucle principal de ejecución para el control de la Zanfona MIDI.
+Gestiona el bucle  en tiempo real: lectura de la manivela (encoder), 
+teclado analógico, galga extensiométrica (bending), ejecución del perro, 
+y selector de cuerdas.
+
+Información del archivo:
+- Archivo: code.py
+- Autor: Jesús Álvarez Puentes
+- Fecha: 2026-07-28
+- Versión: 0.1
+- Licencia: MIT
+- Dependencias: 
+    * CircuitPython (time)
+    * dependencias.zanfona
+"""
+
+from dependencias.zanfona import *
 
 
 # Hacer una media con los valores del bending para ver de qué partimos y usar eso para definir el "0"
