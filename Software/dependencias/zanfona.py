@@ -1,4 +1,29 @@
+"""
+Módulo de Clases: Zanfona MIDI
+==============================
+
+Contiene la definición del modelo de objetos del instrumento:
+- Cuerda: Representación de cuerdas (cantora, bordón, trompeta, perro) y envío MIDI.
+- Rueda: Gestión del estado de reproducción según el giro de la manivela.
+- Teclado: Mapeo y cambio de tono sobre las cuerdas cantoras.
+- Zanfona: Clase contenedora y gestora de la interfaz con los selectores y umbrales.
+
+Información del archivo:
+- Archivo: dependencias/zanfona.py
+- Autor: Jesús Álvarez Puentes
+- Fecha: 2026-07-28
+- Versión: 0.1
+- Licencia: MIT
+- Dependencias:
+    * adafruit_midi (MIDI, NoteOn, NoteOff, PitchBend)
+    * usb_midi
+    * dependencias.fenciones
+"""
+
+
 from dependencias.fenciones import *
+
+
 
 class Cuerda:
 

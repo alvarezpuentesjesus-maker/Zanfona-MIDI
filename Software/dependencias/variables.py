@@ -1,3 +1,26 @@
+"""
+Módulo de Configuración de Hardware y Constantes
+================================================
+
+Define la asignación de pines GPIO (encoders, botones, LEDs, I2C, entradas analógicas),
+las constantes de calibración del teclado analógico, tablas de frecuencias/notas MIDI
+y variables globales de estado del sistema.
+
+Información del archivo:
+- Archivo: dependencias/variables.py
+- Autor: Jesús Álvarez Puentes
+- Fecha: 2026-07-28
+- Versión: 0.1
+- Licencia: MIT
+- Dependencias:
+    * CircuitPython (board, digitalio, analogio, busio, usb_midi)
+    * adafruit_midi (MIDI, NoteOn, NoteOff, PitchBend)
+    * time
+"""
+
+
+
+
 import time
 import analogio
 import digitalio

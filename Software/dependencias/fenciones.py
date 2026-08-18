@@ -1,3 +1,26 @@
+"""
+Módulo de Funciones Auxiliares
+==============================
+
+Proporciona funciones para el procesamiento numérico y de sensores:
+- Conversión de notas musicales en notación anglosajona a números MIDI.
+- Asignación de rango de tensión de las teclas a notas analógicas.
+- Comunicación I2C con el sensor magnético AS5600 para la lectura de la manivela.
+- Corrección de discontinuidad angular y cálculo de media móvil para velocidad.
+
+Información del archivo:
+- Archivo: dependencias/fenciones.py
+- Autor: Jesús Álvarez Puentes
+- Fecha: 2026-07-28
+- Versión: 0.1
+- Licencia: MIT
+- Dependencias:
+    * CircuitPython (busio)
+    * dependencias.variables
+"""
+
+
+
 from dependencias.variables import *
 
 # -------- Teclas y notas MIDI --------
