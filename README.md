@@ -1,5 +1,6 @@
 # Zanfona-MIDI
 
+En este repositorio se recogen tanto los archivos de fabricación mecánica como el software y los esquemas electrónicos para la fabricación de un prototipo funcional de una zanfona MIDI. Este proyecto ha sido desarrollado como TFG para el grado en Robótica en la Universidad de Santiago de Compostela.
 
 <p align="center">
   <a href="#">
@@ -8,7 +9,6 @@
 </p>
 
 
-En este repositorio se recogen tanto los archivos de fabricación mecánica como el software y los esquemas electrónicos para la fabricación de un prototipo funcional de una zanfona MIDI. Este proyecto ha sido desarrollado como TFG para el grado en Robótica en la Universidad de Santiago de Compostela.
 
 ## [Archivos_MIDI](Archivos_MIDI)
 
