@@ -1,5 +1,9 @@
 # Zanfona-MIDI
 
+
+<img width="3739" height="2813" alt="Terminada_Trasera" src="https://github.com/user-attachments/assets/e64f4af9-6526-428d-ae6b-319776177e0e" />
+
+
 En este repositorio se recogen tanto los archivos de fabricación mecánica como el software y los esquemas electrónicos para la fabricación de un prototipo funcional de una zanfona MIDI. Este proyecto ha sido desarrollado como TFG para el grado en Robótica en la Universidad de Santiago de Compostela.
 
 ## [Archivos_MIDI](Archivos_MIDI)
