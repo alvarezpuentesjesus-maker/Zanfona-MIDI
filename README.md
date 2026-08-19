@@ -72,7 +72,7 @@ Se adjunta aquí mismo una tabla con las conexiones de la placa principal para m
 
 ## [Hardware](Hardware)
 
-Aquí se ven contenidos los archivos de fabricación mecánica. Como archivo principal Archivo_Corte.CDR, permite el uso de una cortadora láser para fabricar todas las piezas necesarias en MDF de 3mm. Se facilitan también los archivos individuales de cada pieza en formato DXF en la carpeta [Piezas_individuales](Hardware/Piezas_individuales)
+Aquí se ven contenidos los archivos de fabricación mecánica. Como archivo principal Archivo_Corte.CDR, permite el uso de una cortadora láser para fabricar todas las piezas necesarias en MDF de 3mm. Se facilitan también los archivos individuales de cada pieza en formato DXF en la carpeta [Piezas_individuales](Hardware/Piezas_individuales).
 
 ## [Software](Software)
 
