@@ -16,7 +16,7 @@ Para que el instrumento produzca sonido, es necesario conectarlo a un software d
 
 Se han preparado archivos diferentes en esta carpeta, para interpretar varios instrumentos, gracias a la web de [Musical Artifacts](https://musical-artifacts.com/), que proporciona samples gratuitos.
 
-## [Electrónica](Electrónica) 
+## [Electrónica](Electronica) 
 
 En esta carpeta están contenidos los diferentes esquemáticos utilizados en este proyecto. Además, se ha añadido el archivo de simulación empleado para la placa Resitor_Ladder, llamdo Simulación_Resistor_Ladder.txt.
 Para emplear este archivo correctamente es necesario cargarlo en el simulador de circuitos de [MasterPLC](https://masterplc.com/simulador/).
