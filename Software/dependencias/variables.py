@@ -11,7 +11,7 @@ Información del archivo:
 - Autor: Jesús Álvarez Puentes
 - Fecha: 2026-07-28
 - Versión: 0.1
-- Licencia: MIT
+- Licencia: GNU General Public License
 - Dependencias:
     * CircuitPython (board, digitalio, analogio, busio, usb_midi)
     * adafruit_midi (MIDI, NoteOn, NoteOff, PitchBend)
